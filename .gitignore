@@ -1,3 +1,6 @@
+logs/
+main.log
+*.log
 # Generated files
 .idea/**/contentModel.xml
 
