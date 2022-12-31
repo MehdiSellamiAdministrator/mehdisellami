@@ -18,5 +18,9 @@ public class Variables {
         System.out.println(firstName);
         System.out.println(price);
         System.out.println(timeToFirstLoad);
+
+        // Setting variables equal to each other
+        byte busTickets = peopleOnBus;
+        System.out.println(busTickets);
     }
 }
