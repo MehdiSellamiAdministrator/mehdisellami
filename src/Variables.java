@@ -1,6 +1,5 @@
 public class Variables {
     public static void main(String[] args){
-
         // Intro to Variables
         byte peopleOnBus = 120;
         short indexNumber = 30405;
