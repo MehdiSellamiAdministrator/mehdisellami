@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        int x = 1;
-        x++;
-        x++;
 
-        System.out.println(x);
+        Animal animal = new Animal();
+        animal.setName("Mehdi");
+        System.out.println(animal.name);
+
+
     }
 }

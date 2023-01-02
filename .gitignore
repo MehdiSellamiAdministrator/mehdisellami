@@ -39,6 +39,8 @@ replay_pid*
 
 # IntelliJ
 out/
+test/
+lib/
 
 # User-specific stuff
 .idea/**/workspace.xml
